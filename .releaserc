@@ -1,7 +1,7 @@
 {
     "branches": [
         "master",
-        {name: 'feature*', prerelease: 'rtytrue' },
+        {name: 'feature/dev-*', prerelease: 'rtytrue' },
     ],
     "plugins": [
         "@semantic-release/commit-analyzer",
