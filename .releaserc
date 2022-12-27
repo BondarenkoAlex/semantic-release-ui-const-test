@@ -1,6 +1,5 @@
 {
     "branch": "master",
-    "repositoryUrl": "https://abdrakhmanov@git.banki.ru/scm/fl/ui-constants.git",
     "ci": "true",
     "plugins": [
         "@semantic-release/commit-analyzer",
