@@ -1,3 +1,47 @@
+# [5.0.0-rtytrue.1](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v4.0.0...v5.0.0-rtytrue.1) (2022-12-27)
+
+
+### Features
+
+* feature-10 ([75f542c](https://github.com/BondarenkoAlex/ui-const-test-2/commit/75f542c3576c0c538002d192476fee5b54496eb8))
+* feature-11 ([42009c0](https://github.com/BondarenkoAlex/ui-const-test-2/commit/42009c06018931e9c9e53e26f4806a1abe4318aa))
+* feature-12 ([15e1619](https://github.com/BondarenkoAlex/ui-const-test-2/commit/15e16193456f351d6e5eabdc47d43ef5519e1ab8))
+* feature-13 ([b475004](https://github.com/BondarenkoAlex/ui-const-test-2/commit/b475004309f28d36159ab24b7c36fca79df1063c))
+* feature-14 ([13ef601](https://github.com/BondarenkoAlex/ui-const-test-2/commit/13ef601de69a87733b319456ac83460efc0df114))
+* feature-15 ([02b266c](https://github.com/BondarenkoAlex/ui-const-test-2/commit/02b266c84a2436461e094ab01517d8c12530fead))
+* feature-16 ([20e8deb](https://github.com/BondarenkoAlex/ui-const-test-2/commit/20e8debf9b8e3bb06a1e729edfecef00ad6065d6))
+* feature-16 ([d680f6c](https://github.com/BondarenkoAlex/ui-const-test-2/commit/d680f6c20163b83f3e6367ad992c5b732bf34ae2))
+* feature-17 ([d33e7e8](https://github.com/BondarenkoAlex/ui-const-test-2/commit/d33e7e8b4bc6c8288435e5d04576a168d5120a70))
+* feature-17 ([9c3de23](https://github.com/BondarenkoAlex/ui-const-test-2/commit/9c3de23b6c54fc1624b4c5cbb2d0d3dcdbb68f01))
+* feature-18 ([018136f](https://github.com/BondarenkoAlex/ui-const-test-2/commit/018136fb4a388e501de8ffaa12c4b5964b2067c2))
+* feature-19 ([2a0a505](https://github.com/BondarenkoAlex/ui-const-test-2/commit/2a0a505f1ea455eefe1f3c0a21b255cb839b20ea))
+* feature-8 ([65f1d70](https://github.com/BondarenkoAlex/ui-const-test-2/commit/65f1d705cb828ebface010356bdb815b7e0ae591))
+* feature-9 ([872af27](https://github.com/BondarenkoAlex/ui-const-test-2/commit/872af272e21bdf0def4adf30dacd132c5c1286b6))
+* feature-next ([71137ec](https://github.com/BondarenkoAlex/ui-const-test-2/commit/71137ec939f5f84e7cd9fb388596b1ea1f30d3e5))
+* feature/DEV-1_1 ([34a991c](https://github.com/BondarenkoAlex/ui-const-test-2/commit/34a991c7c2b1dcd07514a3f8dff5e5519db6b29c))
+* feature/DEV-1_2 ([553c10b](https://github.com/BondarenkoAlex/ui-const-test-2/commit/553c10bfa2bb8c32f3a9008ec62cbf35d506427a))
+* feature/dev-2 ([fc63c68](https://github.com/BondarenkoAlex/ui-const-test-2/commit/fc63c6874a5c5e192c53e62f98ce22d4b208a689))
+* feature/dev-2_2 ([7948599](https://github.com/BondarenkoAlex/ui-const-test-2/commit/7948599bf50c4974859e628babf35b87fcd03b4f))
+* feature/dev-2_2 ([f891387](https://github.com/BondarenkoAlex/ui-const-test-2/commit/f891387070f28793382cd8780ced5a21ab150ab9))
+* feature/dev-2_2 ([d6f2d6f](https://github.com/BondarenkoAlex/ui-const-test-2/commit/d6f2d6f3930948ffb37a0e0e509b44a2186e837e))
+* feature/dev-2_2 ([62907f5](https://github.com/BondarenkoAlex/ui-const-test-2/commit/62907f59d64c2fbe2ed97447300d5c7a9ddeee14))
+* feature/dev-2_2 ([edfdd13](https://github.com/BondarenkoAlex/ui-const-test-2/commit/edfdd13083e123bc90d5e831683e6b31059b261d))
+* feature/dev-2_3 ([1174500](https://github.com/BondarenkoAlex/ui-const-test-2/commit/11745007b109b93d0e01c17fd8e7ef2d2db58189))
+* feature/dev-2_3 ([91c819c](https://github.com/BondarenkoAlex/ui-const-test-2/commit/91c819c83151742430d8c3371b0d5a68d8f6a334))
+* feature/dev-2_4 ([7689f94](https://github.com/BondarenkoAlex/ui-const-test-2/commit/7689f94dafa89b1691473bfaf445d329efee8d81))
+* feature/dev-2_5 ([e8757bc](https://github.com/BondarenkoAlex/ui-const-test-2/commit/e8757bc1109a71bc479cf42b22dbf8bba5844c32))
+* feature/dev-2_6 ([64b0e3c](https://github.com/BondarenkoAlex/ui-const-test-2/commit/64b0e3c85c7159322db4947aeead30f39824e59f))
+* feature/dev-2_7 ([9a90345](https://github.com/BondarenkoAlex/ui-const-test-2/commit/9a90345d19fdd2e76b524847aa621f421ab0214a))
+* feature1 ([c4fbdfd](https://github.com/BondarenkoAlex/ui-const-test-2/commit/c4fbdfd60db31bcfa467067bec0846dd1686844b))
+* first feature ([db89c80](https://github.com/BondarenkoAlex/ui-const-test-2/commit/db89c8028789390ab416d15fc2a5f71f2624d718))
+* first feature1 ([3195fd6](https://github.com/BondarenkoAlex/ui-const-test-2/commit/3195fd61b02b0f41f7f5f1c42e16f30fa88b125c))
+
+
+### BREAKING CHANGES
+
+* yes
+* yes
+
 # [4.1.0-wer.3](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v4.1.0-wer.2...v4.1.0-wer.3) (2022-12-27)
 
 
