@@ -8,6 +8,7 @@ on:
       - alpha
       - beta
       - feature/**
+      - feature-*
 jobs:
   release:
     name: Release
