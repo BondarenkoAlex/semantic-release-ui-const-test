@@ -1,7 +1,7 @@
 {
     "branches": [
         "master",
-        {name: 'feature/dev-*', prerelease: 'trueyui' },
+        {name: 'feature/dev-*', prerelease: '${name.replace('/', "-")}' },
     ],
     "plugins": [
         "@semantic-release/commit-analyzer",
