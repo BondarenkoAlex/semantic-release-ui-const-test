@@ -6,7 +6,7 @@
         'next-major',
         {name: 'beta', prerelease: true},
         {name: 'alpha', prerelease: true},
-        {name: 'feature/dev-3', prerelease: 'feature' },
+        {name: 'feature*', prerelease: 'feature' },
     ],
     "plugins": [
         "@semantic-release/commit-analyzer",
