@@ -1,3 +1,10 @@
+# [5.0.0-feature-dev-6.2](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v5.0.0-feature-dev-6.1...v5.0.0-feature-dev-6.2) (2022-12-27)
+
+
+### Features
+
+* feature-25 ([fa7c5c2](https://github.com/BondarenkoAlex/ui-const-test-2/commit/fa7c5c23503f7eb63f7b9b7f0d556717434bf42d))
+
 # [5.0.0-feature-dev-6.1](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v4.0.0...v5.0.0-feature-dev-6.1) (2022-12-27)
 
 
