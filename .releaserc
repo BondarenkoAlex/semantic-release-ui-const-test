@@ -1,7 +1,6 @@
 {
     "branches": [
         "master",
-        {name: 'alpha', prerelease: true},
         {name: 'feature/dev-*', prerelease: true },
     ],
     "plugins": [
