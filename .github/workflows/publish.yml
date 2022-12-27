@@ -7,6 +7,7 @@ on:
       - next-major
       - alpha
       - beta
+      - feature/**
 jobs:
   release:
     name: Release
