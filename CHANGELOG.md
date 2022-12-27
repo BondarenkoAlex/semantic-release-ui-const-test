@@ -1,3 +1,10 @@
+# [4.1.0-wer.2](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v4.1.0-wer.1...v4.1.0-wer.2) (2022-12-27)
+
+
+### Features
+
+* feature/dev-2_4 ([7689f94](https://github.com/BondarenkoAlex/ui-const-test-2/commit/7689f94dafa89b1691473bfaf445d329efee8d81))
+
 # [4.1.0-wer.1](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v4.0.0...v4.1.0-wer.1) (2022-12-27)
 
 
