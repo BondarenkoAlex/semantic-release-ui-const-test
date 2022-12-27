@@ -1,3 +1,11 @@
+# [2.1.0](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v2.0.0...v2.1.0) (2022-12-27)
+
+
+### Features
+
+* **ci:** Test14 ([be27768](https://github.com/BondarenkoAlex/ui-const-test-2/commit/be2776857f067c8fc948c26462a8bb456a617b12))
+* **ci:** Test16 ([f8a3191](https://github.com/BondarenkoAlex/ui-const-test-2/commit/f8a31916420f4dee22507c5c7a8d1f5fa09d5245))
+
 # [2.0.0](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v1.5.0...v2.0.0) (2022-12-27)
 
 
