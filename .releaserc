@@ -7,7 +7,7 @@
         {name: 'beta', prerelease: true},
         {name: 'alpha', prerelease: true},
         {name: 'feature-*', prerelease: true},
-        {name: 'feature/dev-2', prerelease: 'wer' },
+        {name: 'feature/dev-*', prerelease: 'feature' },
     ],
     "plugins": [
         "@semantic-release/commit-analyzer",
