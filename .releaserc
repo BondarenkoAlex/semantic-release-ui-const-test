@@ -1,9 +1,8 @@
 {
     "branches": [
         "master",
-        {name: 'beta', prerelease: true},
         {name: 'alpha', prerelease: true},
-        {name: 'feature/dev-x', prerelease: 'feature' },
+        {name: 'feature/dev-*', prerelease: 'feature' },
     ],
     "plugins": [
         "@semantic-release/commit-analyzer",
