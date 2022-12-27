@@ -1,3 +1,23 @@
+# [4.1.0-wer.1](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v4.0.0...v4.1.0-wer.1) (2022-12-27)
+
+
+### Features
+
+* feature-next ([71137ec](https://github.com/BondarenkoAlex/ui-const-test-2/commit/71137ec939f5f84e7cd9fb388596b1ea1f30d3e5))
+* feature/DEV-1_1 ([34a991c](https://github.com/BondarenkoAlex/ui-const-test-2/commit/34a991c7c2b1dcd07514a3f8dff5e5519db6b29c))
+* feature/DEV-1_2 ([553c10b](https://github.com/BondarenkoAlex/ui-const-test-2/commit/553c10bfa2bb8c32f3a9008ec62cbf35d506427a))
+* feature/dev-2 ([fc63c68](https://github.com/BondarenkoAlex/ui-const-test-2/commit/fc63c6874a5c5e192c53e62f98ce22d4b208a689))
+* feature/dev-2_2 ([7948599](https://github.com/BondarenkoAlex/ui-const-test-2/commit/7948599bf50c4974859e628babf35b87fcd03b4f))
+* feature/dev-2_2 ([f891387](https://github.com/BondarenkoAlex/ui-const-test-2/commit/f891387070f28793382cd8780ced5a21ab150ab9))
+* feature/dev-2_2 ([d6f2d6f](https://github.com/BondarenkoAlex/ui-const-test-2/commit/d6f2d6f3930948ffb37a0e0e509b44a2186e837e))
+* feature/dev-2_2 ([62907f5](https://github.com/BondarenkoAlex/ui-const-test-2/commit/62907f59d64c2fbe2ed97447300d5c7a9ddeee14))
+* feature/dev-2_2 ([edfdd13](https://github.com/BondarenkoAlex/ui-const-test-2/commit/edfdd13083e123bc90d5e831683e6b31059b261d))
+* feature/dev-2_3 ([1174500](https://github.com/BondarenkoAlex/ui-const-test-2/commit/11745007b109b93d0e01c17fd8e7ef2d2db58189))
+* feature/dev-2_3 ([91c819c](https://github.com/BondarenkoAlex/ui-const-test-2/commit/91c819c83151742430d8c3371b0d5a68d8f6a334))
+* feature1 ([c4fbdfd](https://github.com/BondarenkoAlex/ui-const-test-2/commit/c4fbdfd60db31bcfa467067bec0846dd1686844b))
+* first feature ([db89c80](https://github.com/BondarenkoAlex/ui-const-test-2/commit/db89c8028789390ab416d15fc2a5f71f2624d718))
+* first feature1 ([3195fd6](https://github.com/BondarenkoAlex/ui-const-test-2/commit/3195fd61b02b0f41f7f5f1c42e16f30fa88b125c))
+
 # [4.1.0-feature-next.1](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v4.0.0...v4.1.0-feature-next.1) (2022-12-27)
 
 
