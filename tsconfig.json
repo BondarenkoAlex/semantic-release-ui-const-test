@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"target": "ES6",
+		"allowJs": true,
+		"declaration": true,
+		"removeComments": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+	},
+	"include": [
+		"./src/old/**/*.ts",
+		"./src/old/constants/source/**/*.js"
+	]
+}

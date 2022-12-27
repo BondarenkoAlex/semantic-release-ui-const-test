@@ -1,0 +1,19 @@
+{
+    "branch": "master",
+    "repositoryUrl": "https://abdrakhmanov@git.banki.ru/scm/fl/ui-constants.git",
+    "ci": "true",
+    "plugins": [
+        "@semantic-release/commit-analyzer",
+        "@semantic-release/release-notes-generator",
+        ["@semantic-release/npm", {
+            "pkgRoot": "dist"
+        }],
+        ["@semantic-release/exec", {
+          "prepareCmd": "cp dist/package.json . && cp dist/package-lock.json .",
+        }],
+        "@semantic-release/changelog",
+        ["@semantic-release/git", {
+             "assets": ["package.json", "package-lock.json", "CHANGELOG.md"]
+        }]
+      ]
+}

@@ -1,0 +1,33 @@
+module.exports = {
+	fontSize0: '48px',
+	fontSize1: '40px',
+	fontSize2: '32px',
+	fontSize3: '24px',
+	fontSize4: '18px',
+	fontSize5: '16px',
+	fontSize6: '14px',
+	fontSize7: '12px',
+	fontSize8: '10px',
+
+	headerSize0: '48px',
+	headerSize1: '40px',
+	headerSize2: '32px',
+	headerSize3: '24px',
+	headerSize4: '20px',
+	headerSize5: '16px',
+
+	lineHeight0: '64px',
+	lineHeight1: '56px',
+	lineHeight2: '40px',
+	lineHeight3: '32px',
+	lineHeight4: '28px',
+	lineHeight5: '24px',
+	lineHeight6: '20px',
+	lineHeight7: '16px',
+	lineHeight8: '12px',
+
+	textWeightRegular: 400,
+	textWeightMedium: 500,
+	textWeightBold: 700,
+	textWeightBlack: 900,
+};

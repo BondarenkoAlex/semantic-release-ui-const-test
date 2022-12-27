@@ -1,0 +1,33 @@
+{
+  "name": "ui-const-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepack": "npm run build",
+    "prebuild": "node ./constants-builder.js",
+    "build": "tsc --outDir ./dist/old/constants",
+    "postbuild": "npm run copy:constants && npm run copy:package",
+    "copy:constants": "cpy ./src/old/constants/*.styl ./src/old/constants/*.ts ./dist/old/constants",
+    "copy:package": "cpy ./package*.json ./dist/",
+    "publish-semantic": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.banki.ru:7999/sbox/ui-constants.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://nexus.devbanki.ru/repository/npm_host/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "cpy-cli": "^3.1.1",
+    "semantic-release": "^17.4.4",
+    "typescript": "^4.2.4"
+  }
+}
