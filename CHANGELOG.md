@@ -1,3 +1,14 @@
+# [4.1.0-feature-next.1](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v4.0.0...v4.1.0-feature-next.1) (2022-12-27)
+
+
+### Features
+
+* feature-next ([71137ec](https://github.com/BondarenkoAlex/ui-const-test-2/commit/71137ec939f5f84e7cd9fb388596b1ea1f30d3e5))
+* feature/DEV-1_1 ([34a991c](https://github.com/BondarenkoAlex/ui-const-test-2/commit/34a991c7c2b1dcd07514a3f8dff5e5519db6b29c))
+* feature/DEV-1_2 ([553c10b](https://github.com/BondarenkoAlex/ui-const-test-2/commit/553c10bfa2bb8c32f3a9008ec62cbf35d506427a))
+* first feature ([db89c80](https://github.com/BondarenkoAlex/ui-const-test-2/commit/db89c8028789390ab416d15fc2a5f71f2624d718))
+* first feature1 ([3195fd6](https://github.com/BondarenkoAlex/ui-const-test-2/commit/3195fd61b02b0f41f7f5f1c42e16f30fa88b125c))
+
 # [4.1.0-beta.2](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v4.1.0-beta.1...v4.1.0-beta.2) (2022-12-27)
 
 
