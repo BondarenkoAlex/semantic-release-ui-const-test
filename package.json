@@ -7,8 +7,8 @@
     "prepack": "npm run build",
     "prebuild": "node ./constants-builder.js",
     "build": "tsc --outDir ./dist/old/constants",
+    "postbuild": "npm run copy:constants",
     "copy:constants": "cpy ./src/old/constants/*.styl ./src/old/constants/*.ts ./dist/old/constants",
-    "copy:package": "cpy ./package*.json ./dist/",
     "publish-semantic": "semantic-release"
   },
   "repository": {
