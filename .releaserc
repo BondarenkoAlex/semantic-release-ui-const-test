@@ -2,8 +2,7 @@
     "branch": "master",
     "plugins": [
        ["@semantic-release/git", {
-             "assets": ["package.json"],
-             "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
-           }]
+            "assets": ["package.json", "package-lock.json", "CHANGELOG.md"]
+       }]
     ]
 }
