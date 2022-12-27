@@ -1,10 +1,19 @@
-# [2.1.0](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v2.0.0...v2.1.0) (2022-12-27)
+# [3.0.0](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v2.0.0...v3.0.0) (2022-12-27)
 
 
 ### Features
 
+* **ci:** Test-next-major1 ([84ce629](https://github.com/BondarenkoAlex/ui-const-test-2/commit/84ce6298cc19eba2d8b434b5ca3ba6283e6dec74))
+* **ci:** Test-next-major2 ([a390524](https://github.com/BondarenkoAlex/ui-const-test-2/commit/a390524964294f28008b9461b88f4abb42e6c38b))
+* **ci:** Test-next-major3 ([1ed7d38](https://github.com/BondarenkoAlex/ui-const-test-2/commit/1ed7d38a3fb1365cbc12418ee63b59a72b052e82))
+* **ci:** Test-next-major3 ([1031bd3](https://github.com/BondarenkoAlex/ui-const-test-2/commit/1031bd35670ba25ac5eed952dd309f8f5db51153))
 * **ci:** Test14 ([be27768](https://github.com/BondarenkoAlex/ui-const-test-2/commit/be2776857f067c8fc948c26462a8bb456a617b12))
 * **ci:** Test16 ([f8a3191](https://github.com/BondarenkoAlex/ui-const-test-2/commit/f8a31916420f4dee22507c5c7a8d1f5fa09d5245))
+
+
+### BREAKING CHANGES
+
+* **ci:** yae
 
 # [2.0.0](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v1.5.0...v2.0.0) (2022-12-27)
 
