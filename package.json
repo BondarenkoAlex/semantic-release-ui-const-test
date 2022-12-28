@@ -30,6 +30,7 @@
     "dist/"
   ],
   "exports": {
-    "./": "./dist/"
+    "./": "./dist/",
+    "./constants/constants-typings": "./dist/old/constants/constants-typings.js"
   }
 }
