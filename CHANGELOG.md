@@ -1,3 +1,11 @@
+# [5.0.0-feature-dev-8.12](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v5.0.0-feature-dev-8.11...v5.0.0-feature-dev-8.12) (2022-12-28)
+
+
+### Features
+
+* feature-39 ([8785395](https://github.com/BondarenkoAlex/ui-const-test-2/commit/8785395c3ad2d4000116d025303a2372420cf34f))
+* feature-40 ([e92ef4c](https://github.com/BondarenkoAlex/ui-const-test-2/commit/e92ef4cda935377340e750e72cb45b572db04f90))
+
 # [5.0.0-feature-dev-8.11](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v5.0.0-feature-dev-8.10...v5.0.0-feature-dev-8.11) (2022-12-28)
 
 
