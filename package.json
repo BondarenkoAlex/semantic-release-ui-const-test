@@ -4,13 +4,12 @@
   "description": "",
   "main": "",
   "scripts": {
-    "prepack": "npm run build && npm run clean-publish",
+    "prepack": "npm run build",
     "prebuild": "node ./constants-builder.js",
     "build": "tsc --outDir ./dist/old/constants",
     "postbuild": "npm run copy:constants",
     "copy:constants": "cpy ./src/old/constants/*.styl ./src/old/constants/*.ts ./dist/old/constants",
     "publish-semantic": "semantic-release",
-    "clean-publish": "clean-publish --without-publish --temp-dir tarball"
   },
   "repository": {
     "type": "git",
@@ -22,7 +21,6 @@
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/exec": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "clean-publish": "^3.4.5",
     "cpy-cli": "^3.1.1",
     "semantic-release": "^17.4.4",
     "typescript": "^4.2.4"
