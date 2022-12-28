@@ -1,3 +1,10 @@
+# [5.0.0-feature-dev-8.4](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v5.0.0-feature-dev-8.3...v5.0.0-feature-dev-8.4) (2022-12-28)
+
+
+### Features
+
+* feature-29 ([000bb19](https://github.com/BondarenkoAlex/ui-const-test-2/commit/000bb19fb926717cc985f622b868a8ffeade6cab))
+
 # [5.0.0-feature-dev-8.3](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v5.0.0-feature-dev-8.2...v5.0.0-feature-dev-8.3) (2022-12-28)
 
 
