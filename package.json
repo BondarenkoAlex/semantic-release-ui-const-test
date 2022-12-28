@@ -30,8 +30,11 @@
     "dist/"
   ],
   "exports": {
-    "./": "./dist/",
+    "./*": "./dist/*/index.js",
+    "./old/constants/source/*": "./dist/old/constants/source/*",
     "./constants/constants-typings": "./dist/old/constants/constants-typings.js",
+    "./source/border": "./dist/old/constants/source/border.js",
+    "./old/": "./dist/",
     "./package.json": "./package.json"
   }
 }
