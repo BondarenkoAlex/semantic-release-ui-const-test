@@ -29,6 +29,9 @@
   "files": [
     "dist/"
   ],
+  "publishConfig": {
+    "directory": "dist"
+  },
   "exports": {
     "./*": "./dist/*/index.js",
     "./old/constants/source/*": "./dist/old/constants/source/*",
