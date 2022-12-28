@@ -9,7 +9,7 @@
     "build": "tsc --outDir ./dist/old/constants",
     "postbuild": "npm run copy:constants",
     "copy:constants": "cpy ./src/old/constants/*.styl ./src/old/constants/*.ts ./dist/old/constants",
-    "publish-semantic": "semantic-release",
+    "publish-semantic": "semantic-release"
   },
   "repository": {
     "type": "git",
