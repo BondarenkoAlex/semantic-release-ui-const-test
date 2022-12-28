@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prepack": "npm run build",
+    "prepack": "npm run build && npm run clean-publish",
     "prebuild": "node ./constants-builder.js",
     "build": "tsc --outDir ./dist/old/constants",
-    "postbuild": "npm run copy:constants && npm run clean-publish",
+    "postbuild": "npm run copy:constants",
     "copy:constants": "cpy ./src/old/constants/*.styl ./src/old/constants/*.ts ./dist/old/constants",
     "publish-semantic": "semantic-release",
-    "clean-publish": "clean-publish"
+    "clean-publish": "clean-publish -without-publish"
   },
   "repository": {
     "type": "git",
@@ -37,8 +37,5 @@
     "./source/border": "./dist/old/constants/source/border.js",
     "./old/": "./dist/",
     "./package.json": "./package.json"
-  },
-  "clean-publish": {
-    "without-publish": true
   }
 }
