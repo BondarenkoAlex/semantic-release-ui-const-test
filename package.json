@@ -7,10 +7,10 @@
     "prepack": "npm run build",
     "prebuild": "node ./constants-builder.js",
     "build": "tsc --outDir ./dist/old/constants",
-    "postbuild": "npm run copy:constants",
+    "postbuild": "npm run copy:constants && npm run clean-publish",
     "copy:constants": "cpy ./src/old/constants/*.styl ./src/old/constants/*.ts ./dist/old/constants",
     "publish-semantic": "semantic-release",
-    "prepublish": "clean-publish"
+    "clean-publish": "clean-publish"
   },
   "repository": {
     "type": "git",
