@@ -1,3 +1,10 @@
+# [2.1.0-feature-DESIGNDEV-1016-93.1](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v2.1.0-feature-DESIGNDEV-1016-18.1...v2.1.0-feature-DESIGNDEV-1016-93.1) (2023-01-11)
+
+
+### Bug Fixes
+
+* Поправлены стили ([74eb902](https://github.com/BondarenkoAlex/ui-const-test-2/commit/74eb90276c8648555597197a837a3f09d7eae651))
+
 # [2.1.0-feature-DESIGNDEV-1016-18.1](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v2.0.0...v2.1.0-feature-DESIGNDEV-1016-18.1) (2023-01-11)
 
 
