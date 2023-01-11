@@ -1,3 +1,10 @@
+# [1.1.0-feature-DESIGNDEV-1016-41.1](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v1.0.0...v1.1.0-feature-DESIGNDEV-1016-41.1) (2023-01-11)
+
+
+### Features
+
+* Добавлена фича ([aba6c8d](https://github.com/BondarenkoAlex/ui-const-test-2/commit/aba6c8dce08e5caad18774ab1f6f454bf4225489))
+
 # 1.0.0 (2023-01-11)
 
 
