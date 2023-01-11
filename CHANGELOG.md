@@ -1,3 +1,10 @@
+# [2.2.0-feature-DESIGNDEV-1016-8.1](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v2.1.1-feature-DESIGNDEV-1016-23.1...v2.2.0-feature-DESIGNDEV-1016-8.1) (2023-01-11)
+
+
+### Features
+
+* Изменен rupture.styl ([91f7aea](https://github.com/BondarenkoAlex/ui-const-test-2/commit/91f7aeabb9ac03d9addc7a25ed3aef0eb2ac8687))
+
 ## [2.1.1-feature-DESIGNDEV-1016-23.1](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v2.1.0...v2.1.1-feature-DESIGNDEV-1016-23.1) (2023-01-11)
 
 
