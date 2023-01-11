@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
+
 const sourcePath = path.join(__dirname, './src/old/constants/source');
 const directoryPath = path.join(__dirname, './dist/old/constants');
 // Получить названия файлов
