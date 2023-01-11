@@ -1,7 +1,11 @@
 {
     "branches": [
         "master",
-        {name: 'feature/dev-*', channel: '${name.replace("/", "-")}', prerelease: '${name.replace("/", "-")}' },
+        {
+            name: 'feature/*',
+            channel: '${name.replace("/", "-")}',
+            prerelease: '${name.replace("/", "-")}-${Math.floor(Math.random() * 101)}',
+        },
     ],
     "plugins": [
         "@semantic-release/commit-analyzer",
