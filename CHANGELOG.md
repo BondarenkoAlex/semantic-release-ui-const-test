@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/BondarenkoAlex/ui-const-test-2/compare/v1.0.0...v2.0.0) (2023-01-11)
+
+
+### Features
+
+* Переработаны стили ([9e4f09d](https://github.com/BondarenkoAlex/ui-const-test-2/commit/9e4f09d780f499fd9d0e5a174718d242db08bb5d))
+
+
+### BREAKING CHANGES
+
+* Изменился файл стилей
+
 # 1.0.0 (2023-01-11)
 
 
